@@ -1,0 +1,7 @@
+pytrends>=4.9.2
+matplotlib>=3.7.0
+numpy>=1.24.0
+pandas>=2.0.0
+playwright>=1.40.0
+apify-client>=1.0.0
+
